@@ -43,7 +43,7 @@
 
 ## 📈 Featured Projects  
 
-🔹 [**Microservices Infrastructure**](https://github.com/StanicaAlex15/microservices-infrastructure)  
+🔹 [**Microservices Infrastructure**](https://github.com/StanicaAlex15/AI-Powered-Resume-Builder)  
 Full local deployment with Minikube including `auth-service`, `user-service`, `ai-service`, `export-service`, `cv-review-service`, `api-gateway`, and RabbitMQ.  
 
 🔹 **Inventory Management App**  
