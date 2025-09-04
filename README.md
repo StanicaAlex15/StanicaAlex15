@@ -42,9 +42,12 @@
 ---
 
 ## 📈 Featured Projects  
-🔹 **[Microservices Infrastructure](#)** – Local deployment with Minikube (auth-service, user-service, ai-service, export-service, cv-review-service, api-gateway, RabbitMQ)  
-🔹 **[Inventory Management App](#)** – React + Node.js app with authentication, lists, articles, operations, and reports  
-🔹 **[AI Comicbook Generator](#)** – Stripe-integrated app that generates AI comicbooks (watermarked until purchase)  
+
+🔹 [**Microservices Infrastructure**](https://github.com/StanicaAlex15/microservices-infrastructure)  
+Full local deployment with Minikube including `auth-service`, `user-service`, `ai-service`, `export-service`, `cv-review-service`, `api-gateway`, and RabbitMQ.  
+
+🔹 [**Inventory Management App**](https://github.com/StanicaAlex15/inventory-management-app)  
+React + Node.js app with authentication, lists, articles, operations, and reports.  
 
 ---
 
