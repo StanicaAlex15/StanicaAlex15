@@ -13,6 +13,7 @@
 - 🔒 Focused on **authentication & security** (Auth0, JWT, GDPR compliance)  
 - ☁️ Interested in **cloud-native systems, microservices, and DevOps workflows**  
 - 🎨 Passionate about **AI + creativity**, building tools that mix **technology, design & storytelling**  
+- 🖥️ Experienced in **Back-End Programming & Technologies** (Java, C#, Python, PHP, Spring Boot, ASP.NET Core, REST APIs, Databases, Microservices)  
 
 ---
 
@@ -38,6 +39,44 @@
 [![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=flat-square&logo=auth0&logoColor=white)](https://auth0.com/)  
 [![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)](https://stripe.com/)  
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)  
+
+---
+
+### 🖥️ Back-End Programming & Technologies  
+
+**Languages**  
+- C, C++  
+- C# (including Windows Forms)  
+- JavaScript (Node.js, Express.js)  
+- Java (including Spring Boot)  
+- Python  
+- Kotlin  
+- PHP  
+
+**Frameworks**  
+- Spring / Spring Boot  
+- Node.js (TypeScript & JavaScript)  
+- Express.js  
+- ASP.NET Core (Entity Framework, MS SQL)  
+- Laravel  
+
+**Databases**  
+- SQL (General), Oracle SQL, MS SQL, MongoDB  
+
+**Protocols & Security**  
+- REST API Management  
+- Authentication & Authorization (JWT, OAuth2)  
+
+**Architecture & Deployment**  
+- Enterprise Architecture  
+- Microservices  
+- API Gateway  
+- Nginx  
+
+**General**  
+- Object-Oriented Programming  
+- Debugging C# Code  
+- Server Management  
 
 ---
 
